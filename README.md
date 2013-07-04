@@ -15,3 +15,17 @@ While there is minimal structure and styling to illustrate how responsive design
 ##Personal Note
 
 It is my hope that developers find this theme helpful, and that it makes the job of setting up a permutable responsive wordpress theme easier. If you appreicate it, please Star the project on GitHub, and leave a comment at the project's Google Group (https://groups.google.com/forum/#!forum/the-bootplate-wordpress-theme).
+
+##Theme Files - some not written yet
+* index.php
+* header.php
+* footer.php
+* functions.php
+* category.php
+* single.php
+* page.php
+* author.php
+* 404.php
+* tag.php
+* wp_utilities.php
+
