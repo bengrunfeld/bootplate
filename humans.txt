@@ -1,0 +1,20 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+# The Bootplate Wordpress Theme
+
+# TEAM
+
+    Ben Grunfeld -- Theme Author -- @bengrunfeld
+
+# THANKS
+
+    Gabriel Monroy
+    Josh Schnell
+    Mari Grunfeld
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr,
+    Wordpress, HTML5 Boilerplate, 
+    Twitter Bootstrap, Initializr
